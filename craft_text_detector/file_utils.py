@@ -274,3 +274,4 @@ def export_extra_results(
 
     # Save result image
     cv2.imwrite(res_img_file, cv2.cvtColor(image, cv2.COLOR_RGB2BGR))
+
